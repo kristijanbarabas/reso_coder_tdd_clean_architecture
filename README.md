@@ -1,6 +1,6 @@
 # reso_coder
 
-A new Flutter project.
+Reso_coders TDD clean architecture course.
 
 ## Getting Started
 
